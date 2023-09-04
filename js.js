@@ -1,6 +1,5 @@
 function scrolltop() {
-    let a = window.document;
-    a = location.href = '#home';
+    window.location= '#home';
 }
 
 const Element = document.getElementById('bottom');
